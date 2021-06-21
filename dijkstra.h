@@ -1,0 +1,1 @@
+void dijkstra(gNode **g, int n, int dest);
